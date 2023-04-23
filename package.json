@@ -20,6 +20,7 @@
   "homepage": "https://github.com/codesandbox-app/static-template#readme",
   "dependencies": {
     "ethers": "^5.7.2",
+    "mongoose": "^7.0.4",
     "nodemon": "^2.0.20"
   }
 }
